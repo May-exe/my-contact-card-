@@ -1,0 +1,73 @@
+<!DOCTYPE html> 
+<html lang="eng">
+
+<head> 
+<meta charset = "UTF-8">
+<meta name = "viewport" content="width=device-width" initial-scale=1.0>
+<link rel="stylesheet" href="css part">
+<title> Business card - About Me.</title>
+</head>
+
+
+<body>
+
+    <div>
+<img src=" " alt="My picture">
+<h2> Hobbies</h2>
+<ul> 
+    <li> Music</li>
+    <li> Rollers & Tennis</li>
+    <li> Cybersecurity </li>
+    <li> Self-improvement </li>
+</ul>
+
+<h3> <ul> 
+    <li>📧 Mail: soraya.iyangui@etu.iut-tlse3.fr </li>
+    <li> ☎️  06 XX XX XX XX </li>
+</ul></h3>
+    </div>
+
+
+
+<h1><p> About me...</p></h1>
+<h2>
+    IYANGUI Soraya.
+</h2>
+<h2> I'm a first year BUT Informatique student at IUT Toulouse (previously IUT Paul Sabatier ). I'm interested in Websits Developments and safe browsing on the Internet.</h2>
+<h2><strong> Languages</strong></h2>
+<ul> 
+    <li>  Web HTML and CSS</li>
+    <li>Kotlin </li>
+    <li> SQL</li>
+    <li> C </li>
+    <li> Java </li>
+</ul>
+
+<h2> <strong> Soft Skills</strong></h2>
+<ul> 
+<li> Flexibility </li>
+<li> Resilience </li>
+<li> collaboration</li>
+</ul>
+
+<h2> <strong> Additional skills </strong></h2>
+<ul> 
+    <li> GitHub</li>
+    <li> English: B2 level (Intermediate) </li>
+    <li> Canva</li>
+    <li> Good listener</li>
+</ul>
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+</html>

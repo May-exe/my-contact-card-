@@ -1,0 +1,38 @@
+<!DOCTYPE html> 
+<html lang="eng">
+
+<head> 
+<meta charset = "UTF-8">
+<meta name = "viewport" content="width=device-width" initial-scale=1.0>
+<link rel="stylesheet" href="css part">
+<title> Business card - About Me.</title>
+</head>
+
+
+<body>
+<h1><p> About me...</p></h1>
+<h2>
+    IYANGUI Soraya.
+</h2>
+<h2> Étudiante en première année de BUT Informatique à l’IUT Paul Sabatier, je m’intéresse au développement de sites web et aux 
+    questions de sécurité liées à la navigation sur Internet.</h2>
+<h2><strong> Compétences</strong></h2>
+<ul> 
+    <li> Développment Web HTML and CSS</li>
+    <li>Dévéloppement </li>
+</ul>
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+</html>
